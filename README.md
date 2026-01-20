@@ -44,6 +44,11 @@ The temperature sensor continuously measures ambient temperature and sends the d
 
 To build a simple, reliable, and cost-effective IoT solution for real-time temperature monitoring and cloud-based data visualization suitable for industrial and automation applications.
 
+## Sponsorship
+
+This project was supported by TRAVA POWER ALLOY CASTING PVT. LTD.
+The sponsorship provided valuable industry exposure and technical guidance, helping in the development and understanding of real-time industrial temperature monitoring requirements. The support contributed to aligning the project with practical industrial applications and safety standards.
+
 ## Author
 
 **Parth Ugare**
