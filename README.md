@@ -1,10 +1,10 @@
 # IoT-Based Smart Temperature Logger System
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an IoT-based temperature monitoring system designed for real-time data logging and remote monitoring. The system measures temperature using a digital sensor and sends the data wirelessly to the cloud using MQTT protocol. A Node-RED dashboard displays live temperature readings and provides alerts when temperature exceeds a predefined limit.
 
-## ⚙️ Features
+## Features
 
 * Real-time temperature monitoring
 * Wireless data transmission using Wi-Fi
@@ -13,14 +13,14 @@ This project is an IoT-based temperature monitoring system designed for real-tim
 * Threshold-based alert system
 * Cloud-based remote access
 
-## 🧰 Hardware Components
+## Hardware Components
 
 * ESP32 Microcontroller
 * Temperature Sensor (DHT11)
 * Power Supply
 * Connecting Wires
 
-## 💻 Software / Platforms Used
+## Software / Platforms Used
 
 * Arduino IDE
 * MQTT Protocol
@@ -28,22 +28,22 @@ This project is an IoT-based temperature monitoring system designed for real-tim
 * IoT Cloud
 * Wi-Fi
 
-## 🔄 Working Principle
+## Working Principle
 
 The temperature sensor continuously measures ambient temperature and sends the data to the ESP32. The ESP32 processes the data and publishes it to an MQTT broker over Wi-Fi. Node-RED subscribes to this data, displays it on a live dashboard, and triggers alerts if the temperature crosses the set threshold.
 
-## 🏭 Applications
+## Applications
 
 * Industrial temperature monitoring
 * Server rooms
 * Cold storage facilities
-* Food processing industries
+* Alloy Casting industries
 * Smart factories
 
-## 🎯 Objective
+## Objective
 
 To build a simple, reliable, and cost-effective IoT solution for real-time temperature monitoring and cloud-based data visualization suitable for industrial and automation applications.
 
-## 👨‍💻 Author
+## Author
 
 **Parth Ugare**
